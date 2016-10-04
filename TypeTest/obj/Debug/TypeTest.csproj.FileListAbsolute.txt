@@ -1,0 +1,9 @@
+D:\MyProgs\C_sharp\TypeTest\TypeTest\bin\Debug\TypeTest.exe.config
+D:\MyProgs\C_sharp\TypeTest\TypeTest\bin\Debug\TypeTest.exe
+D:\MyProgs\C_sharp\TypeTest\TypeTest\bin\Debug\TypeTest.pdb
+D:\MyProgs\C_sharp\TypeTest\TypeTest\obj\Debug\TypeTest.csprojResolveAssemblyReference.cache
+D:\MyProgs\C_sharp\TypeTest\TypeTest\obj\Debug\TypeTest.Properties.Resources.resources
+D:\MyProgs\C_sharp\TypeTest\TypeTest\obj\Debug\TypeTest.csproj.GenerateResource.Cache
+D:\MyProgs\C_sharp\TypeTest\TypeTest\obj\Debug\TypeTest.exe
+D:\MyProgs\C_sharp\TypeTest\TypeTest\obj\Debug\TypeTest.pdb
+D:\MyProgs\C_sharp\TypeTest\TypeTest\obj\Debug\TypeTest.frmTyper.resources
